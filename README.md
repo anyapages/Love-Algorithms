@@ -34,6 +34,14 @@ Welcome to **LoveAlgorithms** – a playful Java project that uses coding metaph
 mvn clean compile exec:java -Dexec.mainClass="com.example.love.LoveAlgorithms"
 text
 
+## How to contribute 💌
+1. Fork this repository
+2. Create new branch: `feature/[your-name]-response`  
+   (e.g. `feature/anya-response`)
+3. Add your answers to `responses/` directory in format:  
+   `YYYY-MM-DD-[name]-response.txt`
+4. Submit pull request with your emotional debug results
+
 ## Example output
 `````
 Welcome to LoveAlgorithms!
